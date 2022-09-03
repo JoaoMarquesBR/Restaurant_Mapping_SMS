@@ -36,7 +36,6 @@ public class Main {
         manip.tableOccupy("A","Busy");
         manip.tableOccupy("C","Busy","Vini");
 
-//        manip.tableOccupy("A","Busy");
 
         manip.printTables();
 
