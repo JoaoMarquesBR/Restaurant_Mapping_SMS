@@ -1,0 +1,9 @@
+[
+                     {"id" : 1, "name": "Series 3","distance" : "120.000 km" ,"color":"blue"},
+                     {"id" : 2, "name": "Doblo" ,  "distance" : "200.000 km" ,"color":"red"},
+                     {"id" : 3, "name": "Civic" ,  "distance" : "150.000 km" , "color":"black" },
+                     {"id" : 4, "name": "Dodge" ,  "distance" : "180.000 km"  ,"color":"grey"},
+                     {"id" : 5, "name": "Mercedez" ,  "distance" : "30.000 km"  ,"color":"black"},
+                     {"id" : 6, "name": "Jepp" ,  "distance" : "90.000 km"  ,"color":"blue"}
+
+                    ]
